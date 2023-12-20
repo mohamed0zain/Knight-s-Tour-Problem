@@ -1,7 +1,7 @@
 
 Knight's Tour Solver - User Instructions
 
-1. Chessboard Setup:
+ Chessboard Setup:
 
 Enter the desired chessboard size in the "Enter Chessboard Size" field. The chessboard will be an N x N grid.
 2. Knight's Starting Position:
